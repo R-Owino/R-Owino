@@ -51,7 +51,7 @@ I am a Data Scientist and Machine Learning Engineer from Nairobi, Kenya.
 
 - :thinking: I'm looking for help with more data engineering materials.
 
-- :zap: I use tabs, not spaces.
+- 😄: I use tabs, not spaces.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/r-owino)
 
