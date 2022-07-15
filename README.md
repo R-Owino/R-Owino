@@ -53,7 +53,7 @@ I am a Data Scientist and Machine Learning Engineer from Nairobi, Kenya.
 
 - 😄 I use tabs, not spaces.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/r-owino)
+- :mailbox: Let's connect: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/r-owino) and [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_RRW2)
 
 
 <!--tools and languages section-->
