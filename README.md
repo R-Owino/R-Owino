@@ -45,13 +45,13 @@
 
 ### :woman_technologist: About Me :
 
-I am a Data Scientist and Machine Learning Engineer from Nairobi, Kenya.
+I am a Data Scientist from Nairobi, Kenya.
 
-- :telescope: I’m currently working on data engineering zoomcamp project.
+- :telescope: I’m currently a software engineering trainee at ALX.
 
-- :seedling: Learning Data Engineering.
+- :seedling: Learning Software Engineering.
 
-- :thinking: I'm looking for help with more data engineering materials.
+- :thinking: I'm looking for help with learning C.
 
 - 😄 I use tabs, not spaces.
 
