@@ -51,7 +51,7 @@ I am a Data Scientist from Nairobi, Kenya.
 
 - :seedling: Learning Software Engineering.
 
-- :thinking: I'm looking for help with learning C.
+- 🥳: Having fun with Python.
 
 - 😄 I use tabs, not spaces.
 
