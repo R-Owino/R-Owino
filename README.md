@@ -43,9 +43,9 @@
 <!--About me section-->
 
 
-### :woman_technologist: About Me :
+### :woman_technologist: This is Me :
 
-I am a Data Scientist from Nairobi, Kenya.
+I am a Data Scientist.
 
 - :telescope: I’m currently a software engineering trainee at ALX.
 
