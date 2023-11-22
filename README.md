@@ -51,7 +51,7 @@ I am a Data Scientist.
 
 - :seedling: Learning Software Engineering.
 
-- 🥳: Having fun with Python.
+- 🥳 Having fun with Python.
 
 - 😄 I use tabs, not spaces.
 <!--
