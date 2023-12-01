@@ -33,7 +33,6 @@
   Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   This is me
-  <img src="https://giphy.com/gifs/watch-apple-alle-4p1JhLCYEOEJa" width="30px"/>
 </h2>
 
 
