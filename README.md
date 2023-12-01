@@ -32,7 +32,7 @@
 <h2 align="center">
   Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  This is me
+  This is me 😃
 </h2>
 
 
@@ -44,7 +44,7 @@
 <!--About me section-->
 
 
-### :woman_technologist: This is Me :
+### 👩‍💻 This is Me :
 
 I am a Data Scientist.
 
@@ -62,7 +62,7 @@ I am a Data Scientist.
 <!--tools and languages section-->
 ---
 
-### :hammer_and_wrench: Languages, Frameworks, and Tools :
+### 🛠️ Languages, Frameworks, and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -77,7 +77,7 @@ I am a Data Scientist.
 <!--stats section -->
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R-Owino&theme=dark&background=000000)](https://git.io/streak-stats)
 
