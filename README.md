@@ -44,7 +44,7 @@
 <!--About me section-->
 
 
-### 👩‍💻 This is Me :
+### 👩‍💻 My name is Rehema :
 
 I am a Python Developer.
 
