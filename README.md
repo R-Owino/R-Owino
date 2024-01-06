@@ -46,7 +46,7 @@
 
 ### 👩‍💻 This is Me :
 
-I am a Data Scientist.
+I am a Python Developer.
 
 - :telescope: I’m currently a software engineering trainee at ALX.
 
