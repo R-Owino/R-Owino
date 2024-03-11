@@ -43,17 +43,15 @@
 <!--About me section-->
 
 
-### 👩‍💻 My name is Rehema :
+### 👩‍💻 My name is Rehema, a Python lover :
 
-I am a Python Developer.
+- :telescope: Currently refining my DSA skills thru #100DaysOfALXSE 
 
-- :telescope: I’m currently a software engineering trainee at ALX.
+- :seedling: Building my portfolio website
 
-- :seedling: Learning Software Engineering.
+- 🥳 Always having fun with Python
 
-- 🥳 Having fun with Python.
-
-- 😄 I use tabs, not spaces.
+- 😄 I use tabs, not spaces
 <!--
 - :mailbox: Let's connect: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/r-owino) and [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_RRW2)
 -->
@@ -61,16 +59,20 @@ I am a Python Developer.
 <!--tools and languages section-->
 ---
 
-### 🛠️ Languages, Frameworks, and Tools :
+### 🛠️ Languages, Frameworks, Tools and Libraries :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/R-Owino/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/R-Owino/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/R-Owino/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgre" alt="Postgre" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/R-Owino/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
 <!--stats section -->
